@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Świat Deskorolki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Świat Deskorolki</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Strona Główna</a></li>
+                <li><a href="o_nas.html">O Nas</a></li>
+                <li><a href="imprezy.html">Ważne Imprezy</a></li>
+                <li><a href="poradnik.html">Poradnik</a></li>
+                <li><a href="sklep.html">Sklep</a></li>
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Witamy w świecie deskorolki!</h2>
+            <p>Odkryj najnowsze informacje, porady i imprezy deskorolkowe!</p>
+        </section>
+        <section>
+            <h2>Najważniejsze Wydarzenia</h2>
+            <ul>
+                <li><a href="imprezy.html#xgames">X Games</a></li>
+                <li><a href="imprezy.html#sls">Street League Skateboarding</a></li>
+                <li><a href="imprezy.html#balticgames">Baltic Games</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Świat Deskorolki</p>
+    </footer>
+</body>
+</html>
